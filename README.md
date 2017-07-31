@@ -1,5 +1,3 @@
-# Windows 10 Icon theme #
+# Windows 10 Icon Theme for Luubuntu 16.04 LTS
 
-### This icon theme is made for the Windows 10 TransPack project ###
-
-![folder](http://b00merang.weebly.com/uploads/1/6/8/1/16813022/published/9145133.png?1486514028)
+### This is a fork of B00merang Project
