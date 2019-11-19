@@ -1,0 +1,10 @@
+Package: lubuntu-win10-icon-theme
+Version: 0.0.1
+Installed-Size: 20353
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Homepage: https://b00merang.weebly.com
+Description: Windows 10 Icon Theme for Lubuntu 18.04 LTS.
+ This is a fork of B00merang Project.
